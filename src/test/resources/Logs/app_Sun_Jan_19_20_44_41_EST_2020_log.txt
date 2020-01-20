@@ -1,0 +1,17 @@
+INFO    2020-01-19 20:44:46,307 [main] com.ats_base.Base  - chromedriver initilized
+INFO    2020-01-19 20:44:51,066 [main] com.ats_base.Base  - application opened 
+INFO    2020-01-19 20:44:52,370 [main] com.ats_base.Base  - browser maximized 
+INFO    2020-01-19 20:44:54,036 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: //input[@name='username']]
+INFO    2020-01-19 20:44:54,264 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: //input[@name='password']]
+INFO    2020-01-19 20:44:54,327 [main] com.ats_createproject.CreateProjectTest  - element clicked [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> css selector: button[type='submit']]
+INFO    2020-01-19 20:44:56,603 [main] com.ats_createproject.CreateProjectTest  - element clicked [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: //*[text()='New Project']]
+INFO    2020-01-19 20:44:57,269 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[1]]
+INFO    2020-01-19 20:44:57,862 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[2]]
+INFO    2020-01-19 20:44:59,487 [main] com.ats_createproject.CreateProjectTest  - [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[3]] selected with value:- Canada
+INFO    2020-01-19 20:45:00,909 [main] com.ats_createproject.CreateProjectTest  - [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[4]] selected with value:- Ontario
+INFO    2020-01-19 20:45:21,874 [main] com.ats_createproject.CreateProjectTest  - [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[5]] selected with value:- Brampton
+INFO    2020-01-19 20:45:22,949 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//textarea[contains(@class,'MuiInputBase')])[1]]
+INFO    2020-01-19 20:45:23,666 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[6]]
+INFO    2020-01-19 20:45:24,063 [main] com.ats_createproject.CreateProjectTest  - Values entered in the element [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: (//input[contains(@class,'MuiInputBase-input-1')])[7]]
+INFO    2020-01-19 20:45:25,145 [main] com.ats_createproject.CreateProjectTest  - element clicked [[ChromeDriver: chrome on XP (a983ce8213a1ca92ee5ed189efae9734)] -> xpath: //button[@type='submit']]
+ERROR   2020-01-19 20:45:38,747 [main] com.ats_createproject.CreateProjectTest  - verification failed with Exception : null

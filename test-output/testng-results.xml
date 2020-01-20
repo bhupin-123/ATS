@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35374" started-at="2020-01-20T01:50:03Z" finished-at="2020-01-20T01:50:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35374" started-at="2020-01-20T01:50:03Z" finished-at="2020-01-20T01:50:39Z">
+      <class name="com.ats_createproject.CreateProjectTest">
+        <test-method status="PASS" signature="testsetup()[pri:0, instance:com.ats_createproject.CreateProjectTest@534df152]" name="testsetup" is-config="true" duration-ms="11398" started-at="2020-01-19T20:50:03Z" finished-at="2020-01-19T20:50:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsetup -->
+        <test-method status="PASS" signature="createNewProject()[pri:0, instance:com.ats_createproject.CreateProjectTest@534df152]" name="createNewProject" duration-ms="18957" started-at="2020-01-19T20:50:15Z" finished-at="2020-01-19T20:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewProject -->
+        <test-method status="PASS" signature="testclose()[pri:0, instance:com.ats_createproject.CreateProjectTest@534df152]" name="testclose" is-config="true" duration-ms="5000" started-at="2020-01-19T20:50:34Z" finished-at="2020-01-19T20:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testclose -->
+      </class> <!-- com.ats_createproject.CreateProjectTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
